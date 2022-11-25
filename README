@@ -1,0 +1,3 @@
+use sudo airflow webserver -p 8080 to start server
+admin
+admin 
